@@ -4,7 +4,7 @@ metadata:
   name: hello-dev
   namespace: dev
 spec:
-  interval: 5m
+  interval: 1m
   chart:
     spec:
       chart: hello-world-app 
