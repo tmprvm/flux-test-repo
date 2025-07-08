@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
   - hello.yaml
 #  - weave-gitops-dashboard.yaml
+  - ../../sources/helm-repos.yaml
