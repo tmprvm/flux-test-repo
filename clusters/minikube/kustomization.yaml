@@ -4,3 +4,4 @@ resources:
   - hello.yaml
   - weave-dashboard.yaml
   - ../../sources/helm-repos.yaml
+  - capacitor.yaml
